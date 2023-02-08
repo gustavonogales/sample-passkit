@@ -1,0 +1,13 @@
+{
+  "data" : [
+    {
+      "filename" : "health_id_card_sample.pkpass",
+      "idiom" : "universal",
+      "universal-type-identifier" : ""
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
